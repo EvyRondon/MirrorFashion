@@ -1,0 +1,33 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+ "editor.formatOnType": true,
+ "git.path": "C:/Users/29888/AppData/Local/Programs/Git/bin/git.exe",
+ "editor.renderWhitespace": true,
+ "files.trimTrailingWhitespace": true,
+ "editor.renderIndentGuides": true,
+ "html.format.indentHandlebars": true,
+
+
+
+
+ "editor.renderControlCharacters": true,
+ "editor.renderLineHighlight": true,
+ "html.suggest.angular1": true,
+ "html.suggest.ionic": true,
+ "html.suggest.html5": true,
+ "javascript.validate.enable": true
+
+ ,"javascript.format.placeOpenBraceOnNewLineForControlBlocks": true
+
+ ,"javascript.format.placeOpenBraceOnNewLineForFunctions": true
+
+ // ,"explorer.openEditors.visible": true
+  //,"editor.fontSize": 19
+// ,"editor.insertSpaces": true
+
+ ,"diffEditor.renderSideBySide": true
+
+ ,"explorer.enableDragAndDrop": true
+
+
+}
